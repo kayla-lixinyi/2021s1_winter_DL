@@ -1,0 +1,15 @@
+1. 循环神经网络 – Recurrent Neural Network | RNN
+https://easyai.tech/ai-definition/rnn/
+https://zhuanlan.zhihu.com/p/30844905
+
+2. 长短期记忆网络 – Long short-term memory | LSTM
+https://easyai.tech/ai-definition/lstm/
+https://zh.d2l.ai/chapter_recurrent-neural-networks/lstm.html
+https://zhuanlan.zhihu.com/p/32085405
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+https://developer.nvidia.com/discover/lstm
+https://blog.csdn.net/shinanhualiu/article/details/49864219
+
+3. 常用激活函数（激励函数）理解与总结
+https://blog.csdn.net/tyhj_sf/article/details/79932893

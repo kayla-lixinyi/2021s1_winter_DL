@@ -1,0 +1,25 @@
+1. 归一化 （Normalization）、标准化 （Standardization）和中心化/零均值化 （Zero-centered）
+https://www.jianshu.com/p/95a8f035c86c
+归一化
+归一化方法有两种形式，一种是把数变为（0，1）之间的小数，一种是把有量纲表达式变为无量纲表达式。 主要是为了数据处理方便提出来的，把数据映射到0～1范围之内处理，更加便捷快速，应该归到数字信号处理范畴之内。
+
+2. Time-Series Forecasting: Predicting Stock Prices Using An LSTM Model
+LSTM 股票预测指导
+https://pub.towardsai.net/time-series-forecasting-predicting-stock-prices-using-an-lstm-model-e10c3f62ac8a
+
+3. 用LSTM预测股票每日最高价（一个很好的例子）
+https://zhuanlan.zhihu.com/p/31852912
+https://blog.csdn.net/Chile_Wang/article/details/104438072
+
+4. 三次简化一张图：一招理解LSTM/GRU门控机制
+https://zhuanlan.zhihu.com/p/28297161
+
+5. 使用 Python 的卷积神经网络 (CNN) 教程
+https://pub.towardsai.net/convolutional-neural-networks-cnns-tutorial-with-python-417c29f0403f
+
+6. 在 Python 中使用 Keras 进行卷积神经网络
+在本教程中，您将学习如何使用 Keras 在 Python 中实现卷积神经网络 (CNN)，以及如何通过 dropout 克服过拟合。
+https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python
+
+7. 卷积神经网络综合指南——ELI5 方法
+https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
